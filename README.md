@@ -2,7 +2,7 @@
 
 This repository publishes the **3ds** update channel. Releases use `verdant-3ds-update.zip`. Shared source retains both platform backends; this repository's release assets are scoped to Nintendo 3DS / 2DS. See [UPDATES.md](UPDATES.md) for the built-in updater.
 
-# Verdant Desktop â€” experimental 0.2.0
+# Verdant Desktop â€” experimental 0.2.1
 
 An original dark-green desktop for real Linux inside a homebrew application, based on 3DS-CLI 5.3. **This is an experimental build, not a complete Linux Mint port. No physical console has been tested.** See FEATURE-STATUS.md and TEST-RESULTS.md.
 
